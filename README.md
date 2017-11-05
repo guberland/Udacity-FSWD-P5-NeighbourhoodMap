@@ -32,7 +32,7 @@ README.md
 
 1.run the live sample here! https://guberland.github.io/Udacity-FSWD-Projects/P5_Neighbour_map/
   or download the project using the following link:
-  https://github.com/guberland/Udacity-FSWD-Projects/tree/master/P5_Neighbour_map
+  https://github.com/guberland/Udacity-FSWD-P5-NeighbourhoodMap
 
 2.open index.html with the browser of your choice.
 
@@ -58,7 +58,7 @@ SubLime (HTML,CSS,JS)
 
 ## Versioning
 
-https://github.com/guberland/Udacity-FSWD-Projects/tree/master/P5_Neighbour_map
+https://github.com/guberland/Udacity-FSWD-P5-NeighbourhoodMap
 
 ## Authors
 
